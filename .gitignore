@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data caches (regenerated on run)
+*_cache.csv
+
+# Output files (regenerated on run)
+metrics.csv
+metrics_table.md
+summary_info.json
